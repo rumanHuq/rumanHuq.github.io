@@ -2,11 +2,14 @@
 title: How I passed the AWS Solution Architect Associate Exam
 description: Let's dive into my journey to achieve SAA-C03. The Do's, don'ts and everything inbetween
 pubDatetime: 2035-05-28T11:53:42.739Z
+modDatetime: 2025-05-28T13:58:52.712
 tags:
   - devops
   - aws
 ---
-<div><img src="/saa-c03-result.jpeg" alt="My solution architect assoicate exam result showing I got 803 with a passmark"></img><div/>
+<div>
+  <img src="/saa-c03-result.jpeg" alt="My solution architect assoicate exam result showing I got 803 with a passmark" />
+<div/>
 
 ## How it all started
 
