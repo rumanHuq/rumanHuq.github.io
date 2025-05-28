@@ -1,12 +1,12 @@
 ---
 title: How I passed the AWS Solution Architect Associate Exam
-description: Let's dive into my journey to achieve SAA-C02. The Do's, don'ts and everything inbetween
-pubDatetime: 2025-05-28T11:53:42.739Z
+description: Let's dive into my journey to achieve SAA-C03. The Do's, don'ts and everything inbetween
+pubDatetime: 2035-05-28T11:53:42.739Z
 tags:
   - devops
   - aws
 ---
-<div><img src="/saa-c02-result.jpeg" alt="My solution architect assoicate exam result showing I got 802 with a passmark"></img><div/>
+<div><img src="/saa-c03-result.jpeg" alt="My solution architect assoicate exam result showing I got 803 with a passmark"></img><div/>
 
 ## How it all started
 
@@ -14,7 +14,7 @@ I’ve been coding for a while now—mostly in the frontend world, with occasion
 
 Surprisingly, despite all this experience, I never really leaned into understanding how my code reaches end users. I have a decent grasp of networking thanks to my CCNP certification, yet I’d never explored anything related to DevOps.
 
-About three months ago, I decided it was time to change that. While I wasn’t quite ready to commit to hands-on coding with Infrastructure as Code (IaC), I found myself deeply interested in solution architecture. That’s when I began preparing for the AWS SAA-C02 certification exam.
+About three months ago, I decided it was time to change that. While I wasn’t quite ready to commit to hands-on coding with Infrastructure as Code (IaC), I found myself deeply interested in solution architecture. That’s when I began preparing for the AWS SAA-C03 certification exam.
 
 ## How did I study - in a nutshell
 
@@ -28,7 +28,7 @@ It's worth mentioning that I also bought the Tutorial Dojo practice exams—but 
 
 ### Mistake #1: Sticking too long with Adrian’s course
 
-My first mistake was relying solely on Adrian Cantrill’s course. While it's thorough, I found it too bloated and slow-paced for my taste. He tends to repeat concepts and often dives deep into areas not directly relevant to the exam. For example, he has full-length videos on BGP, IPSec, and in-depth CloudFormation—great content, but overkill for SAA-C02. In my actual exam, I only got one question related to CloudFormation.
+My first mistake was relying solely on Adrian Cantrill’s course. While it's thorough, I found it too bloated and slow-paced for my taste. He tends to repeat concepts and often dives deep into areas not directly relevant to the exam. For example, he has full-length videos on BGP, IPSec, and in-depth CloudFormation—great content, but overkill for SAA-C03. In my actual exam, I only got one question related to CloudFormation.
 
 ### Mistake #2: Skipping revision
 
