@@ -2,7 +2,7 @@
 title: How I passed the AWS Solution Architect Associate Exam
 author: Majedul Hoque
 description: Let's dive into my journey to achieve SAA-C03. The Do's, don'ts and everything inbetween
-pubDatetime: 2035-05-28T11:53:42.739Z
+pubDatetime: 2025-05-28T11:53:42.739Z
 modDatetime: 2025-05-28T14:07:52.712
 tags:
   - devops
